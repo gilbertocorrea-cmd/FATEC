@@ -4,8 +4,7 @@
 
 ---
 
-> [!ABSTRACT]
-> Repositório acadêmico da disciplina **Algoritmos em C** da FATEC.
+> [!ABSTRACT] > Repositório acadêmico da disciplina **Algoritmos em C** da FATEC.
 >
 > Este material registra minha evolução desde os primeiros contatos com programação até a construção de sistemas mais completos utilizando a linguagem C.
 >
