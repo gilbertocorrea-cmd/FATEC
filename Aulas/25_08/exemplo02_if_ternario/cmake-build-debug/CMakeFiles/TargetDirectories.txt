@@ -1,3 +1,0 @@
-C:/Users/gilbe/Documents/Programação_maromo/exemplo12/cmake-build-debug/CMakeFiles/exemplo12.dir
-C:/Users/gilbe/Documents/Programação_maromo/exemplo12/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gilbe/Documents/Programação_maromo/exemplo12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

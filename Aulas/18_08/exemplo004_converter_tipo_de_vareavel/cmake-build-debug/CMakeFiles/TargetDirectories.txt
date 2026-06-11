@@ -1,3 +1,0 @@
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18-08/exemplo004_converter_tipo_de_vareavel/cmake-build-debug/CMakeFiles/exemplo004_converter_tipo_de_vareavel.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18-08/exemplo004_converter_tipo_de_vareavel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18-08/exemplo004_converter_tipo_de_vareavel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

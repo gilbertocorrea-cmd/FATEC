@@ -1,3 +1,0 @@
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18_08/exemplo003_char_getchar/cmake-build-debug/CMakeFiles/exemplo003_char_getchar.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18_08/exemplo003_char_getchar/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/18_08/exemplo003_char_getchar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

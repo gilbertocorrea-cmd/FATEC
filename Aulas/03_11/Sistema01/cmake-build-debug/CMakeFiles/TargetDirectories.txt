@@ -1,3 +1,0 @@
-C:/Users/gilbe/Documents/Programação_C_maromo/03_11/Sistema01/cmake-build-debug/CMakeFiles/Sitema01.dir
-C:/Users/gilbe/Documents/Programação_C_maromo/03_11/Sistema01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gilbe/Documents/Programação_C_maromo/03_11/Sistema01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

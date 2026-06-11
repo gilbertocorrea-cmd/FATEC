@@ -1,3 +1,0 @@
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/11_08/exemplo3/cmake-build-debug/CMakeFiles/exemplo3.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/11_08/exemplo3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/73574/Documents/GILBERTO/GIL_FATEC/Programação_C_maromo/11_08/exemplo3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

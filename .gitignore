@@ -1,0 +1,21 @@
+# CMake
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.idea/
+.vscode/
+
+# Java
+*.class
+target/
+
+# Node
+node_modules/
+
+# Logs
+*.log
